@@ -1,3 +1,2 @@
-# HR-Analytics
-HR analytics Power BI dashboard can provide valuable insights into various aspects of human resources management, such as employee performance, recruitment, retention, and workforce diversity.
-
+# Customer Churn
+Customer churn dashboard can help you track and analyze customer retention rates, identify factors leading to churn, and take proactive measures to reduce churn.
